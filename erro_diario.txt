@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\maria\Vondergeist\main.py", line 13, in <module>
+    executar_jogo()
+  File "C:\Users\maria\Vondergeist\jogo.py", line 912, in executar_jogo
+    imagens = atualizar_imagens(janela, recursos)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maria\Vondergeist\recursos.py", line 96, in atualizar_imagens
+    imagens = recursos["imagens"]
+              ~~~~~~~~^^^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable

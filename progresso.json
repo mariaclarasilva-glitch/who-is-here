@@ -1,0 +1,37 @@
+{
+    "ben_apareceu": true,
+    "ben_no_farol": false,
+    "ben_derrotado": true,
+    "anabelle_no_farol": false,
+    "dia_entrada_anabelle": null,
+    "fantasma_na_porta": null,
+    "dialogo_fantasma": null,
+    "rosabella_apareceu": true,
+    "anotacao_rosabella_desbloqueada": true,
+    "primeiro_contato_rosabella": true,
+    "rosabella_no_farol": false,
+    "dia_entrada_rosabella": 562,
+    "historia_rosabella_contada": true,
+    "dia_verificacao_fantasmas": 565,
+    "dia_atual": 565,
+    "itens_coletados": [
+        "Rádio",
+        "Óleo",
+        "Água benta",
+        "Cerveja"
+    ],
+    "quantidades_itens": {
+        "Cerveja": 1,
+        "Rádio": 1,
+        "Água benta": 5,
+        "Óleo": 7
+    },
+    "energia": 100,
+    "sanidade": 95,
+    "exposicao": 40,
+    "exposicao_revelada": true,
+    "vitalidade": 100,
+    "iluminacao_farol": 10,
+    "ultimo_uso_radio": 564,
+    "pistas_itens": {}
+}
